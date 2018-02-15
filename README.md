@@ -1,4 +1,4 @@
-# Print-Images-to-PDF-GIF-PNG-and-JPG
+# Print-Images-to-PDF
 Project: Lite program to print any image, of any size and varying resolutions to PDF.
 
 <b>##Follow Up: </b></br>
@@ -7,25 +7,25 @@ Project: Lite program to print any image, of any size and varying resolutions to
 
 ![alt text](https://github.com/yashpathack/Print-Images-to-PDF/blob/master/pillowimage.jpg)<br/><br/>
 
-<b>#2 Installation of Pillow</b>
+<b>#2 Installation of Pillow</b></br>
 First you have to uninstall the existing version of PIL and Pillow, as it may cause problems in some systems.<br/>
-<code> 
+</br><code> 
 $ pip uninstall PIL
-</code>
+</code></br></br>Get pip here, if not installed on the station: https://pip.pypa.io/en/stable/installing/</br></br>
 
-<b>#3 Now Reinstall PIL</b>
-<code> 
+<b>#3 Now Reinstall PIL</b></br>
+</br><code> 
 $ pip install PIL
-</code>
-
-<b>#4 Install Pillow</b>
-<code> 
-$ pip install Pillow
 </code></br>
+</br>
+<b>#4 Install Pillow</b></br>
+</br><code> 
+$ pip install Pillow
+</code></br></br>
 OR
-<code> 
+</br></br><code> 
 $ easy_install Pillow
-</code>
+</code></br></br>
 
 <b>#1 Here</b>
 
