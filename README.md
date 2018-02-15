@@ -1,7 +1,7 @@
 # Print-Images-to-PDF
 Project: Lite program to print any image, of any size and varying resolutions to PDF.
 
-<b>##Follow Up: </b></br>
+>Follow Up: </br>
 
 <b>#1 This uses the importion of PIL or often refered Pillow Library. PIL is a closed project. It's been forked by developers around the world. Unofficially updated everyday under the name Pillow.</b>
 
@@ -27,7 +27,7 @@ OR
 $ easy_install Pillow
 </code></br></br>
 
-<b>#1 Here</b>
+<b>#5</b>
 
 <b>#1 Here</b>
 #2 hu
