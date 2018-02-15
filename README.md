@@ -27,7 +27,7 @@ OR
 $ easy_install Pillow
 </code></br></br>
 
-<b>#5</b>
+<b>#5 Now take up 15.02.2018.py from the repository and edit the simple two lines(The image name and output PDF name) so as to get the required PDF.</b>
 
-<b>#1 Here</b>
+<b>Adios!</b>
 #2 hu
