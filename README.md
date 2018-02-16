@@ -20,15 +20,31 @@ $ pip install PIL
 </code></br>
 </br>
 <b>#4 Install Pillow</b></br>
-</br><code> 
+</br>
+For Windows</br></br>
+<code> 
 $ pip install Pillow
 </code></br></br>
 OR
 </br></br><code> 
 $ easy_install Pillow
 </code></br></br>
+For Linux</br></br>
+<code> 
+$ sudo pip install Pillow
+</code></br></br>
+For Mac OS X</br></br>
+<code> 
+$ brew install libtiff libjpeg webp littlecms
+</code></br>
+<code> 
+$ sudo pip install Pillow
+</code></br></br>
 
-Now take up  15.02.2018.py from the repository and edit the simple two lines(The image name and output PDF name) so as to get the required PDF.
+
+
+
+Now take up 15.02.2018.py from the repository and edit the simple two lines(The image name and output PDF name) so as to get the required PDF.
 
 Adios!
 
