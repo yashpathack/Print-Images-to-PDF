@@ -21,19 +21,19 @@ $ pip install PIL
 </br>
 <b>#4 Install Pillow</b></br>
 </br>
-For Windows</br></br>
+For Windows</br>
 <code> 
 $ pip install Pillow
-</code></br></br>
+</code></br>
 OR
-</br></br><code> 
+</br><code> 
 $ easy_install Pillow
 </code></br></br>
-For Linux</br></br>
+For Linux</br>
 <code> 
 $ sudo pip install Pillow
 </code></br></br>
-For Mac OS X</br></br>
+For Mac OS X</br>
 <code> 
 $ brew install libtiff libjpeg webp littlecms
 </code></br>
