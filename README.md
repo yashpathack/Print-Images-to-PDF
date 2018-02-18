@@ -28,6 +28,8 @@ For Windows</br>
 <code> 
 $ pip install Pillow
 </code></br>
+Attached Pillow-5.0.0-py3.4-win-amd64.egg in the repo.
+</br>
 OR
 </br><code> 
 $ easy_install Pillow
